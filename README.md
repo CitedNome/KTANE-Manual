@@ -1,2 +1,1 @@
-# KTANE-Manual
-Keep Talking and Nobody Explodes interactive manual
+# Keep Talking and Nobody Explodes Interactive Manual
