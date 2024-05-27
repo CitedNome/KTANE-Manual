@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+}
+
+.symbol_img {
+    width: 50px;
+    border: 3px solid black;
+}
+
+.symbol_sol {
+    width: 100px;
+    border: 5px solid black;
+    visibility: hidden;
+}
+
+@media only screen and (width < 560px) {
+    .symbol_img {
+        width: 35px;
+    }
+    .symbol_sol {
+    width: 65px;
+    }
+}
+
+@media only screen and (width > 1200px) {
+    .symbol_img {
+        width: 100px;
+    }
+    .symbol_sol {
+    width: 150px;
+    }
+}
+
